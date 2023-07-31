@@ -1,0 +1,110 @@
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+}
+
+P {
+  text-align: center;
+  font-size: 25px;
+  margin-left: 9%;
+  margin-right: 9%;
+}
+
+hr {
+  border: 0;
+  border-top: 4px solid gray;
+  margin-left: 6%;
+  margin-right: 6%;
+}
+
+div {
+  text-align: center;
+}
+
+footer {
+  margin: 0px 100px;
+  background-color: darkgrey;
+  border: solid;
+  border-color: grey;
+  border-radius: 10px;
+}
+
+.p-footer {
+  font-size: 12px;
+}
+
+.div-footer {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  height: 25;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  background: #3B5998;
+  color: white;
+  border-radius: 50px;
+}
+
+.fa-instagram {  
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  border-radius: 20px;
+  color: #fff;
+  font-size: 220px;
+  line-height: 250px;
+  vertical-align: middle;
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+  }
+
+  .img {
+    height:400px;
+    width: 370px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 3%;
+  }
+
+  .img-mid {
+    height:400px;
+    width: 370px;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 3%;
+  }
+
+  .gallery {
+    margin-bottom: 30px;
+    height:30px;
+    width:100px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(88, 127, 172);
+    cursor: pointer;
+    box-shadow: 5px 10px 20px rgb(95, 127, 161);
+
+  }
