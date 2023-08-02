@@ -108,3 +108,12 @@ footer {
     box-shadow: 5px 10px 20px rgb(95, 127, 161);
 
   }
+
+.gallery:hover {
+    color: black;
+  }
+
+  .email {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
